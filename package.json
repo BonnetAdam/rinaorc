@@ -3,7 +3,16 @@
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
-  "keywords": ["rinaorc", "fr", "francais", "api", "key"],
+  "keywords": [
+    "rinaorc",
+    "fr",
+    "francais",
+    "api",
+    "key"
+  ],
   "author": "Crazy_Out#5336",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
