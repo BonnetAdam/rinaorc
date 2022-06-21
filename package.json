@@ -1,6 +1,6 @@
 {
   "name": "rinaorc",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A package that allow you for easily use the rinaorc API",
   "main": "index.js",
   "homepage": "https://github.com/CrazyOutOff/rinaorc",
