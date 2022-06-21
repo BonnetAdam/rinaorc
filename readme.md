@@ -1,6 +1,6 @@
 # Rinaord (unofficial) package
 
-Bonjour, j'ai creer un simple project afin d'utiliser l'api de rinaorc plus facielement.
+Bonjour, j'ai creer un simple project afin d'utiliser l'api de rinaorc plus facilement.
 
 ## Comment s'authentifier ?
 A savoir que pour avoir votre api key il faut faire /api sur play.rinaorc.com
