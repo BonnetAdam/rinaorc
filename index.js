@@ -7,7 +7,7 @@ class Rinaorc {
             timeout: 1000,
             headers: {'API-Key': key}
         });
-        this.debug = debug;
+        this.debug = debug || false;
     }
 
     async player(name){
